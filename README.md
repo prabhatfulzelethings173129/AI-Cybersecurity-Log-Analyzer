@@ -129,7 +129,11 @@ You can open it by:
    📋 Parsed Logs
 
 ```md
-![Parsed Logs](screenshots/parsed_logs.png)
+![Parsed Logs](screenshots/parsed_logs.png
+author
+Prabhat Fulzele
+Initial commit
+)
 ```
 
 ---
