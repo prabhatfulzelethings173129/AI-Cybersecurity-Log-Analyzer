@@ -1,0 +1,11 @@
+2026-07-09 10:12:20 INFO User admin logged in
+
+2026-07-09 10:15:41 WARNING Failed login attempt from 192.168.1.101
+
+2026-07-09 10:15:43 WARNING Failed login attempt from 192.168.1.101
+
+2026-07-09 10:15:45 WARNING Failed login attempt from 192.168.1.101
+
+2026-07-09 10:20:11 ERROR Malware detected in downloads.exe
+
+2026-07-09 10:21:05 INFO User logout
