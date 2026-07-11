@@ -136,7 +136,8 @@ You can open it by:
    📄 Original Log
 
 ```md
-![Original Log](screenshots/original_log.png)
+![Original Log](screenshots/original_log.png
+)
 ```
 
 ---
