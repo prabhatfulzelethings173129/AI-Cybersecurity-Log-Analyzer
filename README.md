@@ -130,9 +130,6 @@ You can open it by:
 
 ```md
 ![Parsed Logs](screenshots/parsed_logs.png
-author
-Prabhat Fulzele
-Initial commit
 )
 ```
 
