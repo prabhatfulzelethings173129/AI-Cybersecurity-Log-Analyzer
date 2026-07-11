@@ -112,7 +112,8 @@ You can open it by:
 *(Add Screenshot Here)*
 
 ```md
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.png
+
 ```
 
 ---
