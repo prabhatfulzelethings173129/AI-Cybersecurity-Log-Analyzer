@@ -113,7 +113,7 @@ You can open it by:
 *(Add Screenshot Here)*
 
 
-![Dashboard](dashboard.png)
+![Dashboard](C:\Users\prabh\Documents\GitHub\AI-Cybersecurity-Log-Analyzer\screenshots\dashboard.png)
 
 
 
@@ -122,7 +122,7 @@ You can open it by:
    🚨 Threat Analysis
 
 
-![Threat Analysis](threat_analysis.png)
+![Threat Analysis](C:\Users\prabh\Documents\GitHub\AI-Cybersecurity-Log-Analyzer\screenshots\threat_analysis.png)
 
 
 
@@ -130,7 +130,7 @@ You can open it by:
    📋 Parsed Logs
 
 
-![Parsed Logs](parsed_logs.png)
+![Parsed Logs](C:\Users\prabh\Documents\GitHub\AI-Cybersecurity-Log-Analyzer\screenshots\parsed_logs.png)
 
 
 
@@ -138,23 +138,23 @@ You can open it by:
    📄 Original Log
 
 
-![Original Log](original_log.png)
+![Original Log](C:\Users\prabh\Documents\GitHub\AI-Cybersecurity-Log-Analyzer\screenshots\original_log.png)
 
 ---
 =======
-![Dashboard](dashboard.png)
+![Dashboard](C:\Users\prabh\Documents\GitHub\AI-Cybersecurity-Log-Analyzer\screenshots\dashboard.png)
 
    🚨 Threat Analysis
 
-![Threat Analysis](threat_analysis.png)
+![Threat Analysis](C:\Users\prabh\Documents\GitHub\AI-Cybersecurity-Log-Analyzer\screenshots\threat_analysis.png)
 
    📄 Parsed Logs
 
-![Parsed Logs](parsed_logs.png)
+![Parsed Logs](C:\Users\prabh\Documents\GitHub\AI-Cybersecurity-Log-Analyzer\screenshots\parsed_logs.png)
 
    📋 Original Log
 
-![Original Log](original_log.png)
+![Original Log](C:\Users\prabh\Documents\GitHub\AI-Cybersecurity-Log-Analyzer\screenshots\original_log.png)
 >>>>>>> 3979893 (Fixed README images)
 
 🎯 Future Improvements
