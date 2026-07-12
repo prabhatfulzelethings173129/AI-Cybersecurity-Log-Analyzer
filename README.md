@@ -1,4 +1,4 @@
-### 🛡️ AI Cybersecurity Log Analyzer
+# 🛡️ AI Cybersecurity Log Analyzer
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 
@@ -8,7 +8,9 @@
 
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-### 📌 Project Overview
+---
+
+## 📌 Project Overview
 
 AI Cybersecurity Log Analyzer is a Streamlit-based web application that analyzes cybersecurity log files and identifies potential security threats.
 
@@ -16,7 +18,9 @@ The application parses raw log files, detects suspicious activities such as brut
 
 This project demonstrates practical applications of Python in Cybersecurity, Log Analysis, and Data Visualization.
 
-### 🚀 Features
+---
+
+## 🚀 Features
 
 *  Upload log files (.txt, .log, .csv)
 *  Automatic Log Parsing
@@ -37,7 +41,9 @@ Low
 
 ✅ View Original Log File
 
-### 📂 Project Structure
+---
+
+## 📂 Project Structure
 ```
 AI_Cybersecurity_Log_Analyzer/
 |
@@ -46,17 +52,21 @@ AI_Cybersecurity_Log_Analyzer/
 │── detector.py
 │── sample.txt
 │── requirements.txt
-│── README.md
+└── README.md
 ```
 
-### 🛠 Tech Stack
+---
+
+## 🛠 Tech Stack
 Category	Technology
 Language	Python
 Framework	Streamlit
 Data Processing	Pandas
 Parsing	Regex
 
-### Threat Detection Rule-Based Python Logic
+---
+
+## Threat Detection Rule-Based Python Logic
 🚨 Threats Detected
 
 The application currently detects:
@@ -68,14 +78,18 @@ The application currently detects:
 - Unauthorized Access
 - Normal Activity
 
-### 📊 Dashboard Includes
+---
+
+## 📊 Dashboard Includes
 - Total Logs
 - Total Threats
 - Critical Threats
 - High Severity Threats
 - Medium & Low Threats
 
-### 📥 Installation
+---
+
+## 📥 Installation
 
 
  1️⃣ Clone the Repository
@@ -102,6 +116,8 @@ You can open it by:
 
 > Note: 
 > The project should always be run from the project directory. Otherwise Streamlit may not locate App.py correctly.
+
+---
 
 ## 📷 Application Screenshots
 
@@ -130,7 +146,7 @@ You can open it by:
 
 ### 👨‍💻 Author
 
-*Prabhat Fulzele*
+**Prabhat Fulzele**
 
 Aspiring AI Research and Cybersecurity Enthusiast
 
@@ -140,8 +156,3 @@ Aspiring AI Research and Cybersecurity Enthusiast
 
 🌐 GitHub: https://github.com/prabhatfulzelethings173129
 
-⭐ Support
-
-If you found this project useful, consider giving it a ⭐ on GitHub.
-
-Thank you for visiting this repository!
