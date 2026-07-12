@@ -84,7 +84,7 @@ Medium & Low Threats
 
 ```bash
 git clone https://github.com/prabhatfulzelethings173129/AI-Cybersecurity-Log-Analyzer
-
+```
 
 
  2️⃣ Open the Project Folder
@@ -105,57 +105,23 @@ You can open it by:
 > Note: 
 > The project should always be run from the project directory. Otherwise Streamlit may not locate App.py correctly.
 
-📷 Application Screenshots
+## 📷 Application Screenshots
 
-   🖥️ Dashboard
+### 🖥️ Dashboard
 
-<<<<<<< HEAD
-*(Add Screenshot Here)*
+![Dashboard](screenshots/dashboard.png)
 
+### 🚨 Threat Analysis
 
-![Dashboard](C:\Users\prabh\Documents\GitHub\AI-Cybersecurity-Log-Analyzer\screenshots\dashboard.png)
+![Threat Analysis](screenshots/threat_analysis.png)
 
+### 📋 Parsed Logs
 
+![Parsed Logs](screenshots/parsed_logs.png)
 
+### 📄 Original Log
 
-
-   🚨 Threat Analysis
-
-
-![Threat Analysis](C:\Users\prabh\Documents\GitHub\AI-Cybersecurity-Log-Analyzer\screenshots\threat_analysis.png)
-
-
-
-
-   📋 Parsed Logs
-
-
-![Parsed Logs](C:\Users\prabh\Documents\GitHub\AI-Cybersecurity-Log-Analyzer\screenshots\parsed_logs.png)
-
-
-
-
-   📄 Original Log
-
-
-![Original Log](C:\Users\prabh\Documents\GitHub\AI-Cybersecurity-Log-Analyzer\screenshots\original_log.png)
-
----
-=======
-![Dashboard](C:\Users\prabh\Documents\GitHub\AI-Cybersecurity-Log-Analyzer\screenshots\dashboard.png)
-
-   🚨 Threat Analysis
-
-![Threat Analysis](C:\Users\prabh\Documents\GitHub\AI-Cybersecurity-Log-Analyzer\screenshots\threat_analysis.png)
-
-   📄 Parsed Logs
-
-![Parsed Logs](C:\Users\prabh\Documents\GitHub\AI-Cybersecurity-Log-Analyzer\screenshots\parsed_logs.png)
-
-   📋 Original Log
-
-![Original Log](C:\Users\prabh\Documents\GitHub\AI-Cybersecurity-Log-Analyzer\screenshots\original_log.png)
->>>>>>> 3979893 (Fixed README images)
+![Original Log](screenshots/original_log.png)
 
 🎯 Future Improvements
 AI-based Threat Classification
