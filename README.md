@@ -111,36 +111,35 @@ You can open it by:
 
 *(Add Screenshot Here)*
 
-```md
+
 ![Dashboard](screenshots/dashboard.png
 
-```
 
----
+
+
 
    🚨 Threat Analysis
 
-```md
-![Threat Analysis](screenshots/threat_analysis.png)
-```
 
----
+![Threat Analysis](screenshots/threat_analysis.png)
+
+
+
 
    📋 Parsed Logs
 
-```md
+
 ![Parsed Logs](screenshots/parsed_logs.png
 )
-```
 
----
+
+
 
    📄 Original Log
 
-```md
+
 ![Original Log](screenshots/original_log.png
 )
-```
 
 ---
 
