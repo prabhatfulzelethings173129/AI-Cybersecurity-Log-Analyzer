@@ -107,12 +107,13 @@ You can open it by:
 
 📷 Application Screenshots
 
-   🏠 Dashboard
+   🖥️ Dashboard
 
+<<<<<<< HEAD
 *(Add Screenshot Here)*
 
 
-![Dashboard](screenshots/dashboard.png
+![Dashboard](dashboard.png)
 
 
 
@@ -121,7 +122,7 @@ You can open it by:
    🚨 Threat Analysis
 
 
-![Threat Analysis](screenshots/threat_analysis.png)
+![Threat Analysis](threat_analysis.png)
 
 
 
@@ -129,8 +130,7 @@ You can open it by:
    📋 Parsed Logs
 
 
-![Parsed Logs](screenshots/parsed_logs.png
-)
+![Parsed Logs](parsed_logs.png)
 
 
 
@@ -138,10 +138,24 @@ You can open it by:
    📄 Original Log
 
 
-![Original Log](screenshots/original_log.png
-)
+![Original Log](original_log.png)
 
 ---
+=======
+![Dashboard](dashboard.png)
+
+   🚨 Threat Analysis
+
+![Threat Analysis](threat_analysis.png)
+
+   📄 Parsed Logs
+
+![Parsed Logs](parsed_logs.png)
+
+   📋 Original Log
+
+![Original Log](original_log.png)
+>>>>>>> 3979893 (Fixed README images)
 
 🎯 Future Improvements
 AI-based Threat Classification
