@@ -131,7 +131,9 @@ You can open it by:
 ### 👨‍💻 Author
 
 *Prabhat Fulzele*
+
 Aspiring AI Research and Cybersecurity Enthusiast
+
 📧 Email: prabhatfulzele12345@gmail.com
 
 💼 LinkedIn: https://www.linkedin.com/in/prabhat-fulzele-a1a2b737b
