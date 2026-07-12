@@ -1,4 +1,4 @@
-🛡️ AI Cybersecurity Log Analyzer
+### 🛡️ AI Cybersecurity Log Analyzer
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 
@@ -8,7 +8,7 @@
 
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-📌 Project Overview
+### 📌 Project Overview
 
 AI Cybersecurity Log Analyzer is a Streamlit-based web application that analyzes cybersecurity log files and identifies potential security threats.
 
@@ -16,16 +16,12 @@ The application parses raw log files, detects suspicious activities such as brut
 
 This project demonstrates practical applications of Python in Cybersecurity, Log Analysis, and Data Visualization.
 
-🚀 Features
+### 🚀 Features
 
 *  Upload log files (.txt, .log, .csv)
-
 *  Automatic Log Parsing
-
 *  Threat Detection Engine
-
 *  Security Dashboard
-
 *  Threat Severity Classification
 
 Critical
@@ -41,43 +37,45 @@ Low
 
 ✅ View Original Log File
 
-📂 Project Structure
+### 📂 Project Structure
+```
 AI_Cybersecurity_Log_Analyzer/
-
+|
 │── App.py
 │── parser.py
 │── detector.py
 │── sample.txt
 │── requirements.txt
 │── README.md
+```
 
-🛠 Tech Stack
+### 🛠 Tech Stack
 Category	Technology
 Language	Python
 Framework	Streamlit
 Data Processing	Pandas
 Parsing	Regex
 
-Threat Detection Rule-Based Python Logic
+### Threat Detection Rule-Based Python Logic
 🚨 Threats Detected
 
 The application currently detects:
 
-Failed Login Attempts
-Brute Force Attack
-SQL Injection
-Malware Detection
-Unauthorized Access
-Normal Activity
+- Failed Login Attempts
+- Brute Force Attack
+- SQL Injection
+- Malware Detection
+- Unauthorized Access
+- Normal Activity
 
-📊 Dashboard Includes
-Total Logs
-Total Threats
-Critical Threats
-High Severity Threats
-Medium & Low Threats
+### 📊 Dashboard Includes
+- Total Logs
+- Total Threats
+- Critical Threats
+- High Severity Threats
+- Medium & Low Threats
 
-📥 Installation
+### 📥 Installation
 
 
  1️⃣ Clone the Repository
@@ -123,16 +121,16 @@ You can open it by:
 
 ![Original Log](screenshots/original_log.png)
 
-🎯 Future Improvements
-AI-based Threat Classification
-Machine Learning Detection
-Real-time Log Monitoring
-PDF Report Generation
-Live SIEM Integration
+### 🎯 Future Improvements
+- AI-based Threat Classification
+- Machine Learning Detection
+- Real-time Log Monitoring
+- PDF Report Generation
+- Live SIEM Integration
 
-👨‍💻 Author
+### 👨‍💻 Author
 
-Prabhat Fulzele
+*Prabhat Fulzele*
 Aspiring AI Research and Cybersecurity Enthusiast
 📧 Email: prabhatfulzele12345@gmail.com
 
